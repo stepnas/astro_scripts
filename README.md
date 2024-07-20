@@ -13,6 +13,6 @@ At the end of the file you can find the result of modeling stellar spectra.
 **spectra_analysis.ipynb** – my set of software scripts for reducing astronomical data and plotting some features of it. Don't go into details, just inspect some
 graphs and examples of using the Monte-Carlo method for calculating uncertainties.
 
-**acccolumn.ipynb** – Plotting of gas pressure, velocity, and density in conjunction with integration of the gas dynamic equations using the fourth-order Runge-Kutta technique 
+**Acccolumn.ipynb** – Plotting of gas pressure, velocity, and density in conjunction with integration of the gas dynamic equations using the fourth-order Runge-Kutta technique 
 reliance on a white dwarf's height above its surface as well as integration of the spectrum, or how radiation intensity varies with energy, of gas above a star's surface based 
 on the star's mass and other gas medium characteristics.
