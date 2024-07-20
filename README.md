@@ -1,5 +1,5 @@
 # Astro scripts 
-Some highlights of my research work at Special astrophysical observatory of Russian academy of science (SAO RAS).
+Some related highlights of my research work at Special astrophysical observatory of Russian academy of science (SAO RAS).
 
 **gauss_vels.py** – visualization of intensity distribution of accreation disk near the white dwarf in close binary system J1740. 
 Here are a few instances of how I've used Nelder-Mead minimization from scipy package and visualization in polar coordinates using matplotlip (examine J1740.png plot).
