@@ -1,7 +1,6 @@
 # Astro scripts 
 Some related highlights of my research work at Special astrophysical observatory of Russian academy of science (SAO RAS).
 
-### SCIPTS
 **gauss_vels.py** – visualization of intensity distribution of accreation disk near the white dwarf in close binary system J1740. 
 Here are a few instances of how I've used Nelder-Mead minimization from scipy package and visualization in polar coordinates using matplotlip (examine J1740.png plot).
 This code uses doppler tomography technique, developed by Kotze and Potter (https://doi.org/10.1051/0004-6361/201629120).
